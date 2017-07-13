@@ -6,5 +6,6 @@ As you can see, it is a really primitive IDE for HTML, DOS and autoruns for cd/d
 I used the VS2008 update wizard to bring it up to speed
 
 The folder first-exe contains the first ever iteration, only compatible with bat files.
+The folder final-exe contains the last ever iteration, made in vb.net from scratch.
 
-Sadly i have lost the sources :(
+Sadly i have lost the sources for both:(
